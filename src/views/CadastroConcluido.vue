@@ -4,7 +4,7 @@
         <h1 class="mb-4 text-center">Cadastro concluído com sucesso.</h1>
         <div class="row">           
             <div class="row">
-                  <div @click="cadastrarMais"  class="my-card my-card-first text-center">
+                  <div @click="cadastrarMais"  class="my-card text-center w-100">
                       <img src="../assets/cadastrar.svg" alt="">
                       <h2>Cadastrar outro profissional</h2>
                   </div>
