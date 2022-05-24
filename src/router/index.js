@@ -20,18 +20,18 @@ const routes = [
         component: FormOne
       },
       {
-        path: 'pagina-2',
+        path: 'steptwo',
         name: "FormTwo",
         component: FormTwo
       }
       ,
       {
-        path: 'pagina-3',
+        path: 'stepthree',
         name: "FormThree",
         component: FormThree
       },
       {
-        path: 'cadastro-concluido',
+        path: 'congrats',
         name: "CadastroConcluido",
         component: CadastroConcluido
       }
